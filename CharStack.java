@@ -6,9 +6,6 @@
  * to adhere to the Stack interface.  Nodes containing 
  * Characters are added and removed at the top of the list.
  * 
- * Note: This class throw an Exception if the stack is 
- * empty when a pop is attempted. Classes using this class
- * should add a throws Exception clause on the main method.
  */
 class CharStack {
     
