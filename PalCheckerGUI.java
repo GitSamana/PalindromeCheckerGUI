@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 7
-// Date: 30th November 2015
 /* CODE DESCRIPTION:
  * PalCheckerGUI is a GUI program that checks whether the lines in a file
  * are palindromes.
